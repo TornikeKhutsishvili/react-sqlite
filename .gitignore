@@ -1,0 +1,5 @@
+.hintrc
+**/node_modules
+**/.env
+**/.venv
+**/dist
